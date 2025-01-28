@@ -24,7 +24,7 @@ From 0 to BAC+10, all that matters is:
 
 As an intern you will most likely be amongst the first people to join us. You will be directly mentored by our CTO, Anicet. 
 
-You will join at a early, critical & exciting period in the startup life (that we call "pre-PMF", where we raise money, hire first employees, secure first customers), that will teach you a ton about how launching a nascent startup works, and how to go from 0 to 1 technically. This will prove more valuable than a MBA or technical degree at a top school.
+You will join at a early, critical & exciting period in the startup life (that we call "pre-PMF", where we raise money, hire first employees, secure first customers), that will teach you a ton about how launching a nascent startup works, and how to go from 0 to 1 technically. This could prove more valuable than a MBA or technical degree at a top school.
 
 We only want technical people with the most potential to learn and grow with us. If you join, we will teach you all that you want to learn and that we know about: AI, rust, typescript, web programming, systems programming, software architecture & best practices, business, startups, funding.
 
