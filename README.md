@@ -28,7 +28,7 @@ You will join at a early, critical & exciting period in the startup life (that w
 
 We only want technical people with the most potential to learn and grow with us. If you join, we will teach you all that you want to learn and that we know about: AI, rust, typescript, web programming, systems programming, software architecture & best practices, business, startups, funding.
 
-A fixed AI full-stack software project will be agreed upon with you before the beginning. Your typical days will be 1 hour 1:1 mentoring with our CTO, 2 hours autonomous learning, 4 hours working on your project & report.
+A fixed AI full-stack software project will be agreed upon with you before the beginning. Your typical days will be 1/2 hour 1:1 mentoring with our CTO, 2 hours autonomous learning, 4 hours working on your project & report.
 
 If we like both your human side and work side we will gladly allow you to join as an employee and help you relocate to San Francisco as we will ourselves move there after your internship. (No worries, the full internship will be in Paris with always at least one founder on-site).
 
