@@ -11,6 +11,13 @@
 - Skills: Algorithms, Backend, Frontend, AI (you might not have all of that because we will teach you)
 - Perks: -50% Navigo
 
+## How to Apply
+
+Send us by [email](mailto:an.nougaret@gmail.com):
+- Minimal Resume (can be just a .txt file) with preferably: what projects you worked on, what tech jobs you had, what education you have
+- Your GitHub account
+- Describe within less than 10 sentences what is the one most impressive thing (technically, artistically or other) that you have done in your life.
+
 ## About you
 
 From 0 to BAC+10, all that matters is:
@@ -40,13 +47,6 @@ Code understanding tasks (review, troubleshooting, onboarding) are 75% of the ti
 ## Story
  
 We founded the company in early January this year. We raised a pre-seed investment from Entrepreneur First, one of the best incubator and investor in the international startup scene. We have already released a first version of our product, and in the following months we aim to onboard paid customers, raise a seed round and prepare to relocate to San Francisco.
-
-## How to Apply
-
-Send us by [email](mailto:an.nougaret@gmail.com):
-- Minimal Resume (can be just a .txt file) with preferably: what projects you worked on, what tech jobs you had, what education you have
-- Your GitHub account
-- Describe within less than 10 sentences what is the one most impressive thing (technically, artistically or other) that you have done in your life.
 
 ## Application process
 
