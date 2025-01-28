@@ -46,7 +46,7 @@ We founded the company in early January this year. We raised a pre-seed investme
 Send us by [email](mailto:an.nougaret@gmail.com):
 - Minimal Resume (can be just a .txt file) with preferably: what projects you worked on, what tech jobs you had, what education you have
 - Your GitHub account
-- Describe in 10 sentences what is the one most impressive thing (technically, artistically or other) that you have done in your life.
+- Describe within less than 10 sentences what is the one most impressive thing (technically, artistically or other) that you have done in your life.
 
 ## Application process
 
