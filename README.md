@@ -5,7 +5,7 @@
 - Company: Dedale AI, Corp
 - Website: https://dedale.dev
 - Location: on-site, Paris intra-muros (13th district for now, we may change district by then)
-- Duration: 8 to 14 weeks in-between early May and the end of August
+- Duration: 8 to 14 weeks in-between end of May and the end of August
 - Compensation: 1k€ (brut) per month
 - Stack: Rust, Typescript, React, (C++, Svelte, Vue, Python appreciated)
 - Skills: Algorithms, Backend, Frontend, AI (you might not have all of that because we will teach you)
